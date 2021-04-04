@@ -3,7 +3,7 @@
 
 This project is owned by Abdulaziz Gebril, Jenny Tsai, & Mojahid Osman. Below are the folders of this project:  
 
-1) Codes:  
+(1) Codes:  
 
     (a) Preprocessing & EDA codes
     
